@@ -1,5 +1,6 @@
 # Tone Mapping Feature Matcher
 Input: pictures of the same scene at different exposure levels
+
 Output: beautiful image with no under- or over-exposure
 
 This program runs in two stages:
@@ -8,6 +9,6 @@ This program runs in two stages:
 2. Tone Mapping: this stage combines the data from all source images to yield a flattened hdri-esque image.
 
 # TODO
-Feature Matching
-Ghosting removal
-More/better tone mapping functions
+* Feature Matching
+* Ghosting removal
+* More/better tone mapping functions
